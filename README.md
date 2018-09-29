@@ -26,4 +26,4 @@ We went a *step ahead* to solve problems that occur because of *no network cover
 - Different types of drones could be used. Some that carry Cargo as in food, Water, sand to put out fires for immediate assitance and manually operated.
 
 
-Note: We didn't put a video since our interview was already taken by the IBM team present at HackMIT 2018 and we are all located in different corners of the world.
+Note: This project was conceived, created and finished in the span of 24 hours only at HackMIT 2018, hence I find reconfiguring commit history to be a bit disturbing to that fact. Please do ignore the same.  

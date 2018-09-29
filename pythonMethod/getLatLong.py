@@ -29,9 +29,9 @@ def getLatLong(fileLoc):
         elif key == 'GPS GPSLongitudeRef':
             lngdir = str(metadata[key])
     
-    lat = lat.values
-    lng = lng.values
+    lats = lat.values
+    lngs = lng.values
     
-    return degToDec([lat,lng,latdir,lngdir])
+    return degToDec([lats,lngs,latdir,lngdir])
 
 #print(getLatLong('100075_lowres.jpg'))

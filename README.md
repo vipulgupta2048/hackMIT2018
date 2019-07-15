@@ -1,6 +1,10 @@
 # Wats'on the Roof
 _Mitigating disasters, one roof at a time._
 
+**Update #1**: After long months of work with the IBM DevRel team, our project **Wats'on The Roof** has been featured on the [IBM Watson Developers page](https://developer.ibm.com/tutorials/use-drones-after-floods-to-help-survivors-watson-visual-recognition/) as a tutorial project for young learners to try out **Watson Visual Recognition**, learn the concepts, and hack on it to help mitigate and manage future disasters better as well as bringing in even more people to the platform! _More power to you all._
+
+![](https://mixstersite.files.wordpress.com/2019/07/screenshot_2019-07-16_02-53-49.png?w=1024&h=576)
+
 ## Inspiration
 - Natural disasters are humanity's biggest concern. They can't be prevented by any means, but they can be *mitigated*. Proper management could help reduce risks and ensure faster recovery. 
 
